@@ -11,4 +11,4 @@
 
 ## License Agreement
 
-Out license is ABC and you are agreeing to XYZ by submitting this PR.
+Our license is ABC and you are agreeing to XYZ by submitting this PR.
