@@ -5,7 +5,7 @@ held in Princeton, NJ, July 10-14.
 
 Gary's made some changes here.
 This change has me feeling all conflicted.
-This is now another commit ahead
+This is now another commit ahead,
 
 ## Funding
 
